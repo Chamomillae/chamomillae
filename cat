@@ -1,0 +1,15 @@
+<!DOCTYPE html>.
+<html> 
+<body>
+  <header>
+    <h1>Chamomillae</h1>
+  </header>
+Вот тут вступительная статья моя. 
+<p><a href="Тест-пост.html">Тест-пост</a>
+<a href="Под кроватью.html">"Под кроватью"</a>
+</p>
+  <footer>
+    egonon.cognosco@gmail.com
+  </footer>
+ </body> 
+</html> 
